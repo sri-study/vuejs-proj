@@ -4,13 +4,12 @@
     <com-pre>
       &lt;is-static&gt;is-static&lt;/is-static&gt;
     </com-pre>
-
   </div>
 </template>
 
 <script>
   import IsStatic from "../../component/Button/isStatic.vue";
-  import ComPre from "../../component/memo/com-pre.vue";
+  import ComPre from "../../component/memo/comPre.vue";
 
   export default {
     components: {

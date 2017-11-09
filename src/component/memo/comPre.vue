@@ -2,7 +2,6 @@
   <div>
     <div class="column">
       <figure class="highlight">
-        <button class="button is-small copy-code" @click="text_copy">Copy</button>
         <pre id="pagelink">
           <slot></slot>
         </pre>
@@ -13,7 +12,7 @@
 
 <script>
   export default {
-    name: 'Com-pre'
+    name: 'comPre'
   }
 </script>
 

@@ -23,6 +23,7 @@
     position: fixed;
     width: 100%;
     z-index: 1024;
+    background:#fff;
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
     .container {
       margin: auto 10px;
